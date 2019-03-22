@@ -7,8 +7,11 @@ h2 {
   text-align: center;
   color: darkmagenta;
 }
+h3.card-header {
+  font-weight: normal;
+}
 .row {
-  padding-top: 5px;
+  padding-top: 15px;
 }
 .card-title {
   background-color: aliceblue;
@@ -18,19 +21,18 @@ h2 {
   font-size: 1.25em;
 }
 
-#aboutme h2 {
+#aboutme h1 {
   text-align: center;
   color: indigo;
   background-color: lavender;
-  margin-top: 10px;
+  margin-top: 20px;
 }
 
 .card {
   margin: 1%;
+  margin-left: 0;
 }
-.wrap {
-  text-align: center;
-}
+
 img {
   float:right;
 }
