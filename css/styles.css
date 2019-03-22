@@ -22,13 +22,19 @@ h2 {
   text-align: center;
   color: indigo;
   background-color: lavender;
-}
-#aboutme p {
   margin-top: 10px;
 }
+
 .card {
   margin: 1%;
 }
 .wrap {
   text-align: center;
+}
+img {
+  float:right;
+}
+.pithycomments {
+  font-family: fantasy;
+  color: indigo;
 }
