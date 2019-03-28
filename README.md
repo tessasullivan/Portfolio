@@ -9,9 +9,12 @@
 _This is a webpage with links to all git repositories of Tessa's work.  A small
 bio and picture is included._
 
+See http://tessasullivan.github.io/Portfolio to display her portfolio.
+
 ## Setup/Installation Requirements
 
-* Requires a modern web browser
+* Clone repository
+* Open index.html in a web browser
 
 ## Known Bugs
 
